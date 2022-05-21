@@ -7,10 +7,15 @@ name = "pypi"
 django = "*"
 factory-boy = "*"
 faker = "*"
+django-extensions = "*"
+graphene = "*"
+graphene-django = "*"
+django-utils-six = "*"
 
 [dev-packages]
 pytest = "*"
 pylint = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.10"
