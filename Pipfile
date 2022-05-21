@@ -8,6 +8,9 @@ django = "*"
 factory-boy = "*"
 faker = "*"
 django-extensions = "*"
+graphene = "*"
+graphene-django = "*"
+django-utils-six = "*"
 
 [dev-packages]
 pytest = "*"
